@@ -16,7 +16,8 @@ Patch parcial em PT-BR para `Drakengard 3` de PS3.
 - tutoriais
 - nomes e objetivos basicos
 - comeco da historia
-- primeiros blocos como `M_0010`, `M_0020`, `M_1011` e `C_00`
+- prologo e Capitulo 1
+- blocos como `C_00`, `C_1011`, `C_1021`, `M_0010`, `M_0020`, `M_1011`, `M_1021`, `M_1031` e `M_1041`
 
 ## Observacoes
 
