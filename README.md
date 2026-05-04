@@ -10,15 +10,14 @@ Patch em PT-BR para `Drakengard 3` de PS3.
 
 ## Status da traducao
 
-- cobertura atual: cerca de `96,12%` das linhas de texto (`16224/16879`)
+- cobertura atual: `100%` das linhas dos CSVs do projeto-base (`16879/16879`)
 - capitulos traduzidos: prologo/Capitulo 0 ate Capitulo 5, incluindo versos/cenas extras disponiveis nos CSVs do projeto-base
 - menus principais, opcoes, pause menu, tutoriais, resultado, selecao/preparacao de capitulos e banco de dados de personagens
-- missoes, objetivos, condicoes de quest, textos comuns usados durante a campanha, itens, armas, efeitos, historias de armas, nomes de monstros, dicas de chefes e textos de gameplay
+- missoes, objetivos, condicoes de quest, textos comuns usados durante a campanha, itens, armas, efeitos, historias de armas, nomes de monstros, dicas de chefes, DLCs, staff roll e textos de gameplay
+- nomes genericos exibidos em missoes foram normalizados, como `Soldier A` para `Soldado A`
 
 ## Ainda pendente
 
-- textos de DLC
-- staff roll
 - revisao de textos longos que podem sair da area da tela
 
 ## Observacoes
