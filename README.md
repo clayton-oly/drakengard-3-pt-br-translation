@@ -15,6 +15,7 @@ Patch em PT-BR para `Drakengard 3` de PS3.
 - menus principais, opcoes, pause menu, tutoriais, resultado, selecao/preparacao de capitulos e banco de dados de personagens
 - missoes, objetivos, condicoes de quest, textos comuns usados durante a campanha, itens, armas, efeitos, historias de armas, nomes de monstros, dicas de chefes, DLCs, staff roll e textos de gameplay
 - nomes genericos exibidos em missoes foram normalizados, como `Soldier A` para `Soldado A`
+- resumos da selecao de missoes do Capitulo 3 foram revisados onde ainda havia texto em ingles
 
 ## Ainda pendente
 
