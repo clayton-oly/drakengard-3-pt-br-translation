@@ -19,6 +19,7 @@ Patch em PT-BR para `Drakengard 3` de PS3.
 - a cena do Octa antes da Floresta da Neblina no Capitulo 3 foi traduzida manualmente onde o CSV-base ainda estava em ingles
 - revisao adicional removeu blocos longos em ingles de `misson_outline`, pedidos da Accord, resumos de ramificacoes e uma historia de arma
 - corrigido erro de substituicao em `Continuar Campanha` e normalizados textos residuais de `Story/summary`
+- revisao adicional traduziu textos restantes detectados em `ppm00` e historias de armas
 
 ## Ainda pendente
 
