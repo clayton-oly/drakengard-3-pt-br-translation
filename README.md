@@ -20,6 +20,7 @@ Patch em PT-BR para `Drakengard 3` de PS3.
 - revisao adicional removeu blocos longos em ingles de `misson_outline`, pedidos da Accord, resumos de ramificacoes e uma historia de arma
 - corrigido erro de substituicao em `Continuar Campanha` e normalizados textos residuais de `Story/summary`
 - revisao adicional traduziu textos restantes detectados em `ppm00` e historias de armas
+- revisao geral normalizou rótulos residuais como `Quest`, `Section`, `Objective`, `Delay`, ordinais e placeholders de linha
 
 ## Ainda pendente
 
